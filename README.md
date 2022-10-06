@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning Angular.Js...
 
 - 📫 reach me @ contact.ashishingle@gmail.com ...
-
+- 🔗 linkedin Profile : https://www.linkedin.com/in/ashishingle00
 
